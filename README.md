@@ -1,3 +1,3 @@
 # portfolio
 
-Link - https://yethuhlaing.netlify.app/ 
+Link - https://yethuhlaing.github.io/portfolio/
